@@ -1,0 +1,25 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Generated files
+data/
+__init__.py
+
+# Editor files
+*.swp
+*.swo
+*.swn
+
+# System files
+.DS_Store
+Thumbs.db
